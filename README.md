@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @denijazz84
 - 👀 I’m interested in blockchain
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning JS, next Solidity
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me denizekiz@protonmail.com
 
