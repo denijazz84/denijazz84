@@ -1,0 +1,17 @@
+PowerPoint Presentation Content:
+
+# Slide 1: Title Slide
+- Title: Product Price Change Analysis
+
+# Slide 2: Waterfall Chart
+- Title: Engineering Change Impact Waterfall Chart
+- Chart Data:
+   - Starting Point: $10.00 (2023 total price)
+   - Base Price Increase: +$0.75
+   - Nickel Cost Increase: +$0.00467
+   - Copper Cost Increase: +$0.00132
+   - Cobalt Cost Increase: +$0.01322
+   - Total Price (2026): $10.80586
+
+- Chart Description: This chart visually represents the incremental changes to the product price.
+- Colors and Labels: Each segment of the chart will have clear labels and distinct colors for easy viewing.
